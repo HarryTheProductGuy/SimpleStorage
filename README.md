@@ -1,1 +1,1 @@
-# SimpleHashingSmartContract
+# SimpleStorage.sol
