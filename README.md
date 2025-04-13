@@ -1,1 +1,1 @@
-# SimpleStorage.sol
+# SimpleStorage
